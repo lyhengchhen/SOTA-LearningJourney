@@ -1,3 +1,3 @@
+Personal study notes and experiments.
 
-This personal note uses some materials, code, images, and/or datasets that were not created by me.
-Full credit goes to the original authors and owners.
+Referenced or quoted third-party materials belong to their respective authors.
